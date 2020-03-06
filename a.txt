@@ -6,3 +6,4 @@ qweqwewq:
 master delete
 dev title
 dev update
+github test
